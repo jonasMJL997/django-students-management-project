@@ -1,4 +1,8 @@
 STUDENT CRUD Mini Project: Summary and Key Features
+![Screenshot 2024-06-09 182558](https://github.com/jonasMJL997/django-students-management-project/assets/118437218/45cd01f2-fcbe-4d3e-a1f2-9442f249818c)
+
+
+
 This Django project provides a simple system for managing student records.
 Users can efficiently add, view, edit, and delete student details through 
 a user-friendly web interface, making it an effective tool for maintaining a student database.

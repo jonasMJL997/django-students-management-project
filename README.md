@@ -1,5 +1,10 @@
 STUDENT CRUD Mini Project: Summary and Key Features
+
+
 ![Screenshot 2024-06-09 182558](https://github.com/jonasMJL997/django-students-management-project/assets/118437218/45cd01f2-fcbe-4d3e-a1f2-9442f249818c)
+
+![Screenshot 2024-06-09 181242](https://github.com/jonasMJL997/django-students-management-project/assets/118437218/76cb2a3f-a898-4087-b097-832436255880)
+
 
 
 
